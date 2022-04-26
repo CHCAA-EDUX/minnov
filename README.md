@@ -5,6 +5,11 @@
 This repository contains all of the code and data related to the Spring (F22) course _Managing Innovation_ at [Aarhus University](https://international.au.dk/), [MSc in Economics and Business Administration - Innovation Management and Entrepreneurship](https://kandidat.au.dk/en/innovationmanagement). The course is taught in conjunction with [Center for Humanities Computing Aarhus](https://chcaa.io/#/), any inquiries can be addressed to [CHCAA](mailto:chcaa@cas.au.dk?subject=[PftHe21]%20Student%20Inquiry).
 
 This repository is in active development, with new material being pushed on a weekly basis.
+
+## Single Point of Contact ##
+
+![DS-SPoC](figs/minnov_spoc.png)
+
 ## Technicalities
 
 The course uses [UCloud](https://cloud.sdu.dk/app/login) [JupyterLab](https://docs.cloud.sdu.dk/Apps/jupyter-lab.html) for all examples.
