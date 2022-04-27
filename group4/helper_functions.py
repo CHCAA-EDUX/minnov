@@ -34,6 +34,9 @@ def grammar_check(comment, tool):
 
     return len(matches)
 
+def min_max_normalization(df, col):
+    return (df[col]-df[col].min())/(df[col].max()-df[col].min())
+
 
 def colors_from_values(values, palette_name):
     # normalize the values to range [0, 1]
