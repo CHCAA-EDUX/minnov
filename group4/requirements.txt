@@ -1,0 +1,3 @@
+openpyxl
+language-tool-python
+nltk

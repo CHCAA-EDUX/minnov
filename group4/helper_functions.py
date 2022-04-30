@@ -1,7 +1,4 @@
 import pandas as pd
-import string
-from nltk.stem.wordnet import WordNetLemmatizer
-import language_tool_python
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
