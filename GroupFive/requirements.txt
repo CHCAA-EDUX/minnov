@@ -1,0 +1,8 @@
+pandas
+pycountry
+numpy
+scipy
+spacy
+sklearn
+textblob
+plotly
