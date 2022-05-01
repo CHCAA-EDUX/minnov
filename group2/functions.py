@@ -34,5 +34,5 @@ def wordcounter_wcomments(idea: str, comments: List[str]):
 def print_topics(model, vectorizer, top_n=10):
     for idx, topic in enumerate(model.components_):
         print("Topic %d:" % (idx+1))
-        print([(vectorizer.get_feature_names_out()[i])
+        print([(vectorizer.get_feature_names()[i])
                         for i in topic.argsort()[:-top_n - 1:-1]])
