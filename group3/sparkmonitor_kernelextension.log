@@ -1,0 +1,5 @@
+INFO:  2022-04-30 13:48:48,432 - sparkmonitorkernel - 660 - MainProcess -         140095081449280 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2022, 4, 30, 11, 48, 29, 718000, tzinfo=tzutc()), 'msg_id': '6ded2288-119d-48c9-854e-63715d0ac4a1', 'msg_type': 'comm_open', 'session': '3537590c-98cf-4452-bddb-497fc39719c2', 'username': '', 'version': '5.2'}, 'msg_id': '6ded2288-119d-48c9-854e-63715d0ac4a1', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'd718bd50-36fe-4274-97de-7837d581549f', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
