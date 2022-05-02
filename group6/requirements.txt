@@ -1,0 +1,10 @@
+openpyxl
+pandas
+numpy
+transformers
+plotly
+seaborn
+tqdm
+torch
+wasabi
+umap-learn
