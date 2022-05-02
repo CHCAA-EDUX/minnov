@@ -1,0 +1,9 @@
+setup.py
+nonnegfac/__init__.py
+nonnegfac/matrix_utils.py
+nonnegfac/nmf.py
+nonnegfac/nnls.py
+nonnegfac.egg-info/PKG-INFO
+nonnegfac.egg-info/SOURCES.txt
+nonnegfac.egg-info/dependency_links.txt
+nonnegfac.egg-info/top_level.txt

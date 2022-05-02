@@ -1,0 +1,8 @@
+openpyxl
+pandas
+matplotlib
+seaborn
+plotly
+spacy
+sklearn
+pyldavis
