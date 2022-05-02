@@ -6,3 +6,5 @@ spacy
 sklearn
 textblob
 plotly
+openpyxl
+statsmodels

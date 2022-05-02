@@ -3,8 +3,6 @@ import numpy as np
 import pandas as pd
 from textblob import TextBlob
 
-import utils.text
-
 
 def sentiment_score(text: str) -> Tuple[float, float]:
     if not text or not isinstance(text, str):
